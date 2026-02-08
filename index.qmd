@@ -2,9 +2,9 @@
 title: "Aliana Sheriff"
 ---
 
-This is a Quarto website.
+Welcome! My name is Aliana Sheriff and I am a current Junior at Melissa High in the International Baccalaureate Diploma Program. With an education grounded in global mindedness and international awareness, I'm ready to investigate my interests in data, public policy, and international relations. On this website, you'll find a showcase of my projects, highlighting my academic journey and exploration of my interests. Click on relevant categories to see these projects.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+You can also check out my CV.
 
 ```{r}
 1 + 1
