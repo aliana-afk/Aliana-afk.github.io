@@ -1,6 +1,6 @@
 ---
 title: "Aliana Sheriff"
-image: IMG_3394.PNG
+image: images/IMG_3394.PNG
 about:
   template: trestles
   image-width: 5cm
