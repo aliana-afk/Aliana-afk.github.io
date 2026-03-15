@@ -9,5 +9,5 @@ about:
 
 Welcome! My name is Aliana Sheriff and I am a current Junior at Melissa High in the International Baccalaureate Diploma Program. With an education grounded in global mindedness and international awareness, I'm ready to investigate my interests in data, public policy, and international relations. On this website, you'll find a showcase of my projects, highlighting my academic journey and exploration of my interests. Click on relevant categories to see these projects.
 
-You can also check out my <a href="/cv/cv_aliana.pdf" target="_blank">CV</a>..
+You can also check out my <a href="/cv/cv_aliana.pdf" target="_blank">CV</a>.
 

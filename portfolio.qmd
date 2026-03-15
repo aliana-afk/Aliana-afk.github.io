@@ -3,3 +3,6 @@ title: "Portfolio"
 ---
 
 You can check out my projects here:
+
+<ul>
+  <li><a href="/docs/paperv2 copy.html" target="_blank">Russia and NATO Enlargement</a><li>
