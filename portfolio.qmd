@@ -5,6 +5,6 @@ title: "Portfolio"
 You can check out my projects here:
 
 <ul>
-  <li><a href="/docs/paperv2 copy.html" target="_blank">Russia and NATO Enlargement Paper</a></li>
-  <li><a href="/docs/paperv2 copy.html" target="_blank">Russia and NATO Enlargement Presentation</a></li>
+  <li><a href="/docs/paperv2.html" target="_blank">Russia and NATO Enlargement Paper</a></li>
+  <li><a href="/docs/presentation_russia_nato.html" target="_blank">Russia and NATO Enlargement Presentation</a></li>
 </ul>
